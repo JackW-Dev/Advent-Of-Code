@@ -8,7 +8,7 @@ This repository is home to my Advent Of Code solutions
 
 I have set myself the following goals:
 - Complete all challenges available throughout the course of the month
-- Use a different language each day (or at least try to)
+- Use a different language each day (or at least try to) - Failed :(
 
 | Day | Language |
 | :-: | :-: |
@@ -16,10 +16,10 @@ I have set myself the following goals:
 | 2 | Bash |
 | 3 | Kotlin |
 | 4 | Ruby |
-| 5 |  |
-| 6 |  |
-| 7 |  |
-| 8 |  |
+| 5 | Ruby |
+| 6 | Python |
+| 7 | Python |
+| 8 | Python |
 | 9 |  |
 | 10 |  |
 | 11 |  |

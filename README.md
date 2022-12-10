@@ -20,8 +20,8 @@ I have set myself the following goals:
 | 6 | Python |
 | 7 | Python |
 | 8 | Python |
-| 9 |  |
-| 10 |  |
+| 9 | Python |
+| 10 | C |
 | 11 |  |
 | 12 |  |
 | 13 |  |

@@ -22,13 +22,13 @@ I have set myself the following goals:
 | 8 | Python |
 | 9 | Python |
 | 10 | C |
-| 11 |  |
-| 12 |  |
-| 13 |  |
-| 14 |  |
-| 15 |  |
-| 16 |  |
-| 17 |  |
+| 11 | Python |
+| 12 | Python |
+| 13 | Python |
+| 14 | Python |
+| 15 | Python |
+| 16 | Python |
+| 17 | Python |
 | 18 |  |
 | 19 |  |
 | 20 |  |
